@@ -6,3 +6,6 @@ bottlenecks
 # JetBrains IDE metadata
 .idea
 *.iml
+resnet-100*
+vgg-100*
+inception-100*
